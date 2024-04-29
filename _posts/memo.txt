@@ -1,0 +1,9 @@
+포스팅 주제 아이디어
+1. JS
+- iterator 종류와 차이
+- 호이스팅
+- 이벤트 캡쳐링과 버블링 
+- closer 
+- node.js 란?
+
+2. React
